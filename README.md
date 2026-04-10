@@ -47,7 +47,7 @@ With over 8 years of hands-on experience in full-stack development (starting Jan
 
 › GitHub: https://github.com/CmS-JrE  
 › GitLab: https://gitlab.com/allen.aledo  
-› LinkedIn: https://www.linkedin.com/in/allenaledo
+› LinkedIn: https://www.linkedin.com/in/allenaledo  
 › Upwork: https://www.upwork.com/freelancers/~01f6b94b18f7f72b92
 
 Ready to solve your web challenges? Feel free to reach out — I'm always happy to discuss new opportunities or collaborations! 👋
