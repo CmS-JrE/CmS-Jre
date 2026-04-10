@@ -1,4 +1,4 @@
-FULL-STACK WEB DEVELOPER | DIGITALOCEAN SERVER EXPERT | WEB APPLICATION SPECIALIST
+FULL-STACK WEB DEVELOPER
 
 👋 Hi there! I’m a full-stack web developer who builds responsive websites, sales funnels, and modern front-ends while optimizing slow systems, large datasets, APIs, and Linux servers. I may be what you need.
 
