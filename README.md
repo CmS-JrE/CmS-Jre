@@ -45,7 +45,7 @@ With over 8 years of hands-on experience in full-stack development (starting Jan
 
 🔗 Connect With Me
 
-› GitHub: www.github.io/AllenAledo  
+› GitHub: https://www.github.com/AllenAledo  
 › GitLab: https://gitlab.com/allen.aledo  
 › LinkedIn: https://www.linkedin.com/in/allenaledo  
 › Upwork: https://www.upwork.com/freelancers/~01f6b94b18f7f72b92
