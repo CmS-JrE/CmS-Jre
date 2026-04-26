@@ -31,13 +31,11 @@ With over 8 years of hands-on experience in full-stack development, I specialize
 › Transformed page load times for million-record lists with pagination from over 13 hours down to just 5–10 seconds
 
 📌 Project Highlights
-
 › SkyQuota (2019–present): Progressed from bug fixing to full feature development, AI chatbot integration, and mentoring another developer. Successfully adapted and deployed projects involving Laravel + Vue.js + AWS environments onto DigitalOcean, including updates to Node.js, Vite, and related plugins.
 › Luke Foundation (Non-Profit): Built a complete LAMP-stack system for managing personnel, partner organizations, member attendance, and activities — reducing reliance on manual paperwork while complementing QuickBooks.
 › Bright Hope Room for Growth Inc. (Education): Created an interactive online learning platform with parent/student accounts, fun exercises, multiple-choice quizzes, and teacher grading tools using LAMP stack + Bootstrap.
 
 🛠️ My Tech Stack
-
 › HTML5 • CSS3 • JavaScript • jQuery • Ajax • PHP • MySQL
 › Semantic UI • Bootstrap • Vue.js
 › DigitalOcean (VPS hosting, database management, performance optimization)
